@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a3fe07b-1347-404a-8722-eccc8c70c674" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="$USER_HOME$/sdk/go1.15.5" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1kphYpcHauIEHkEKLf7SGVnAQCE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Go Test.dataauditevent_test.go">
+    <configuration name="go build github.com/dgzlopes/traefik-datadog-event" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="traefik-datadog-event-main" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/dgzlopes/traefik-datadog-event" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dataauditevent_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="traefik-datadog-event-main" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <package value="github.com/dgzlopes/traefik-datadog-event" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/dataauditevent_test.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.dataauditevent_test.go" />
+        <item itemvalue="Go Build.go build github.com/dgzlopes/traefik-datadog-event" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="693" y="275" width="524" height="494" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606466496216">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="693" y="275" width="524" height="494" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1606466496216" />
+    <state width="1878" height="347" key="GridCell.Tab.0.bottom" timestamp="1606476189114">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1878" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1606476189114" />
+    <state width="1878" height="347" key="GridCell.Tab.0.center" timestamp="1606476189114">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1878" height="347" key="GridCell.Tab.0.center/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1606476189114" />
+    <state width="1878" height="347" key="GridCell.Tab.0.left" timestamp="1606476189113">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1878" height="347" key="GridCell.Tab.0.left/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1606476189113" />
+    <state width="1878" height="347" key="GridCell.Tab.0.right" timestamp="1606476189114">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1878" height="347" key="GridCell.Tab.0.right/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1606476189114" />
+    <state width="1878" height="347" key="GridCell.Tab.1.bottom" timestamp="1606476189114">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1878" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1606476189114" />
+    <state width="1878" height="347" key="GridCell.Tab.1.center" timestamp="1606476189114">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1878" height="347" key="GridCell.Tab.1.center/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1606476189114" />
+    <state width="1878" height="347" key="GridCell.Tab.1.left" timestamp="1606476189114">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1878" height="347" key="GridCell.Tab.1.left/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1606476189114" />
+    <state width="1878" height="347" key="GridCell.Tab.1.right" timestamp="1606476189114">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1878" height="347" key="GridCell.Tab.1.right/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1606476189114" />
+    <state x="666" y="149" width="587" height="753" key="find.popup" timestamp="1606403889189">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="666" y="149" width="587" height="753" key="find.popup/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1606403889189" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/dataauditevent.go</url>
+          <line>64</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/dataauditevent.go</url>
+          <line>63</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/dataauditevent.go</url>
+          <line>51</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/traefik_audit_event_main$dataauditevent_test_go.out" NAME="dataauditevent_test.go Coverage Results" MODIFIED="1606473566336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

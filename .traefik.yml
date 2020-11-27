@@ -1,0 +1,10 @@
+displayName: Audit event
+type: middleware
+
+import: github.com/jasonheath776/traefik-audit-event
+
+summary:  Create audit events from patterns
+
+testData:
+#  Url: ::6000
+#  Req: /jason
